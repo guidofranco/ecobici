@@ -1,0 +1,380 @@
+station_id,name,address,capacity
+2,002 - Retiro I,"Ramos Mejia, Jose Maria, Dr. Av. & Del Libertador Av.",20
+3,003 - ADUANA,Moreno & Av Paseo Colon,20
+4,004 - Plaza Roma,Lavalle & Bouchard,20
+5,005 - Plaza Italia,Av. Sarmiento 2601,40
+6,006 - Parque Lezama,"Avenida Martin Garcia, 295",20
+7,007 - OBELISCO,CARLOS PELEGRINI 215,16
+8,008 - Congreso,"Cevallos, Virrey& Yrigoyen, Hipolito Av.",24
+9,009 - Parque Las Heras,"2300 Diaz, Cnel. Av. & French",23
+11,011 - Tribunales,600 Talcahuano,20
+12,012 - Plaza Vicente Lopez,Parana & Juncal,16
+13,013 - ONCE,Av. Pueyrredon & Av. Rivadavia,30
+14,014 - Pacifico,"Santa Fe Av. & Bullrich, Int. Av.",30
+15,015 - JUANA MANSO II,Juana Manso & Emma de la Barra,20
+17,017 - Plaza Almagro,"441 Bulnes & Peron, Juan Domingo, Tte. General",20
+19,019 - PLAZA SAN MARTIN,Av. Santa Fe 750 & Maipu,24
+20,020 - Distrito Audiovisual,Zapiola & Dorrego,20
+21,021 - Parque Patricios,Iguazu & Uspallata,24
+22,022 - Arenales,Cerrito & Arenales,19
+23,023 - Suipacha,"Suipacha & Viamonte, 709",11
+24,024 - ALSINA,Adolfo Alsina& Bernardo De Irigoyen,17
+25,025 - Plaza Guemes,"Salguero, Jeronimo & Mansilla, Lucio Norberto, General",24
+26,026 - JUANA MANSO I,"Manso Juana & De La Barra, Emma",24
+27,027 - Montevideo,Cordoba Av. & Montevideo,15
+28,028 - Plaza Boedo,"3310 Calvo, Carlos & Sanchez De Loria",20
+29,029 - Parque Centenario,Av. Patricias Argentinas & Estivao,30
+30,030 - Peña,Peña & Azcuenaga,20
+31,031 - Padilla,"Padilla & Alvarez, Julian",20
+32,032 - Catedral,67 San Martin,16
+33,033 - Facultad de Medicina,Pres. José Evaristo Uriburu 987,20
+35,035 - INGENIERO BUTTY,Ing. E. Butty 291,29
+36,036 - MAIPÚ,MAIPÙ 300,16
+38,038 - Plaza Libertad,Cerrito 990 y Av. Marcelo T. De Alvear,19
+39,039 - CONGRESO II,Rivadavia Av. & Parana,20
+40,040 - Sarmiento,Sarmiento 481,16
+41,041 - Urquiza y Rondeau,"Urquiza, Gral. & Rondeau",20
+42,042 - Diagonal Norte,"Saenz Peña, Roque, Pres. Diagonal Norte Av. & Suipacha",23
+43,334 - CENTRO DE EXPOSICIONES,2133 Figueroa Alcorta,15
+44,044 - Ecoparque,"Av. Del Libertador, 3260",19
+45,045 - Uruguay,561 Uruguay & Av. Tucuman,19
+46,046 - Chile,"Calle Perú, 718",17
+47,047 - Colegio Nacional de Buenos Aires,306 Bolivar & Moreno,16
+48,034 - Colonia Express,150 Dellepiane Y Pedro de Mendoza,16
+49,049 - 33 Orientales,Constitucion & Treinta Y Tres Orientales,20
+50,050 - Hospital Rivadavia,2516 Pereyra Lucena,20
+51,051 - TUCUMAN,Tucuman & 9 De Julio Av.,12
+52,052 - SANCHEZ DE BUSTAMANTE,212 Sanchez De Bustamante,20
+53,053 - Ricardo Rojas,1068 San Martin,20
+54,054 - Acuña de Figueroa,"Lavalle & Acuña De Figueroa, Francisco",20
+55,055 - Bouchard,Viamonte 101,20
+56,056 - Plaza Palermo Viejo,Costa Rica & Armenia,16
+57,057 - BELGRANO,Balcarce 482,16
+58,058 - Ministro Carranza,Santa Fe Av. & Dorrego,20
+59,018 - Independencia,Idependencia y Bernardo de Irigoyen,19
+60,060 - 25 De Mayo,527 25 De Mayo,19
+62,062 - Córdoba,820 Maipú,20
+63,063 - Reconquista,Reconquista 76 & Cordoba Av.,20
+64,064 - RIOBAMBA,Riobamba 1264 & Juncal,20
+65,065 - Julián Álvarez,3822 Guemes,20
+66,066 - Billinghurst,3508 Carcova,19
+68,068 - Rivarola,175  Dr. Rodolfo Rivarola,19
+69,069 - Ecuador,"1226 Ecuador & Mansilla, Lucio Norberto, General",15
+70,070 - ARAOZ,1413 Araoz & Gorriti CABA,19
+71,071 - CERRITO,"Av Pres. Roque Saenz Peña, Diagonal Norte",30
+72,072 - Venezuela,Peru 490,18
+73,073 - Ruy Díaz de Guzmán,Avenida Martin Garcia y Ruy Díaz de Guzmán,15
+74,074 - INSTITUTO  LELOIR,Juana De Ibarbourou & Av Patricias Argentinas,30
+75,075 - Plaza Primero de Mayo,238 Pichincha,18
+76,076 - Ayacucho,"Ayacucho &Peron, Juan Domingo, Tte. General",20
+77,077 - SARANDI,"176 Sarandi & Alsina, Adolfo",19
+78,078 - SUIPACHA Y ARROYO,1420 Suipacha,19
+79,079 - AZUCENA VILLAFLOR,"Villaflor, Azucena & Dealessi, Pierina",28
+80,080 - DOBLAS,608 Doblas & Valle,16
+82,082 - HOSPITAL ITALIANO,394 Rawson & Potosi,20
+83,083 - Paraná,1590 Lavalle,20
+84,084 - Lavalle,Ayacucho 595,20
+85,085 - AGUERO,"Aguero & Mansilla, Lucio Norberto, General",20
+86,086 - SAAVEDRA,1019 Saavedra,20
+87,087 - Guayaquil,Guayaquil & Doblas,14
+88,088 - MISIONES,MISIONES 209,19
+89,089 - Cabello,3082 Cabello,18
+90,090 - GUTIERREZ,"2685 Gutierrez, Juan Maria & Aguero",20
+91,091 - Pasco,708 Pasco & Chile,20
+92,092 - Salcedo,2908 Salcedo & Dean Funes,20
+93,093 - CARLOS CALVO,Sarandi 1010,20
+94,094 - GÚZMAN,Av Guzman 129 & Leiva,30
+95,095 - ESMERALDA,ESMERALDA 516,16
+96,096 - Carlos Gardel,3302 Guardia Vieja & Aguero,20
+98,098 - Belgrano y roca,Av Belgrano 705,16
+99,099 - Malabia,780 Malabia & Loyola,20
+101,101 - Fitz Roy,Fitz Roy  1092 & Loyola,20
+102,102 - ROSETI,50 Roseti & Dorrego Av.,12
+104,104 - Federico Lacroze,Av. Guzman 1100 & Av. Corrientes,30
+105,105 - 15 DE NOVIEMBRE,2687 15 De Noviembre De 1889 & Catamarca,15
+106,106 - RINCÓN,Venezuela 2091,19
+107,107 - HOSPITAL GARRAHAN,Brasil & Pichincha,15
+110,110 - Guardia Vieja,3620 Guarda Vieja,18
+111,111 - MACACHA GUEMES,Machaca Guemes 350,28
+112,112 - 9 de Julio,Bernardo Irigoyen 320,16
+114,114 - DELLA PAOLERA,"Della Paolera 297, Carlos M. & Av. Leandro N. Alem",29
+115,115 - QUINTANA,"Av Pres Manuel Quintana 600. & Haedo, Eduardo V., Pres.",16
+116,116 - HOSPITAL ALEMÁN,Beruti & Ecuador,11
+117,117 - HUMBERTO 1°,Peru  1016,16
+118,118 - MEXICO,Saavedra & Mexico,19
+119,119 - EMILIO MITRE,"Pacheco De Melo, Jose Andres",19
+120,120 - HOSPITAL RAMOS MEJIA,3084 Agrelo,19
+121,121 - YATAY,925 Yatay& Humahuaca,20
+122,122 - COSTA RICA,Costa Rica 4090,20
+124,124 - UGARTECHE,3050 Ugarteche,19
+126,126 - Ministerio de Justicia y Seguridad,"Regimiento De Patricios Av. & Araoz De Lamadrid, Gregorio, Gral.",16
+127,127 - SANTOS DUMONT Y OTERO,"4392 Dumont, Santos & Otero",16
+128,128 - PARQUE DEL BAJO,"Madero, Eduardo Av. & Peron, Juan Domingo, Tte. General",19
+130,130 - RETIRO II,"Ramos Mejia, Av Dr Jose Maria Vargas& Av. Del Libertador",39
+131,131- HOSPITAL DE CLÍNICAS,"Uriburu Jose E., Pres. & Paraguay",16
+132,132 - CORRIENTES,Reconquista & Corrientes Av.,12
+134,134 - DON BOSCO,3490 Don Bosco,19
+135,135 - MARCELO T. DE ALVEAR,902 Esmeralda,20
+137,137 - AZOPARDO Y CHILE,AZOPARDO 700,20
+138,138 - Hospital Britanico,153 Perdriel,12
+141,141 - SOLIS Y ALSINA,225 Solis,20
+143,143 - BILLINGHURST Y VALENTÍN GOMEZ,"455 Billinghurst & Gomez, Valentin",20
+144,144 - PUEYRREDÓN,684 Boulogne Sur Mer & Tucuman,20
+146,146 - Hospital Francés,"3024 Calvo, Carlos",20
+149,149 - LIMA,México & Lima,16
+150,150 - VERA PEÑALOZA,"Vera Peñaloza, Rosario & Cossettini, Olga",30
+151,151 - AIME PAINÉ,"Villaflor, Azucena & Paine, Aime",23
+152,152 - JULIETA LANTERI,"Vera Peñaloza, Rosario 599 & Lanteri Julieta",20
+153,153 - JUAN MANUEL DE BLANES,"383 Blanes, Juan Manuel",16
+154,154 - GALLO,789 Gallo,20
+155,155 - Parque José Evaristo Uriburu,300 Almafuerte Av. & Los Patos,19
+156,156 - Plaza Alemania,2939 Cavia,20
+158,158 - VILLARROEL,1321 Villarroel & Humboldt CABA,20
+161,161 - Humahuaca,3912 Humahuaca,20
+162,162 - LARREA Y BARTOLOMÉ MITRE,80 Larrea,20
+163,163 - ONCE II,Bartolome Mitre & Av. Puyrredon,30
+164,164 - FACULTAD DE INGENERIA,Estados Unidos 21,19
+165,165 - PLAZA MONSEÑOR MIGUEL DE ANDREA,Dr Tomas Manuel De  Anchorena &  Jose A. Cabrera,12
+166,166 - Cementerio de Recoleta,2000 Vicente Lopez,20
+167,275 - PLAZA 24 DE SEPTIEMBRE,1355 San Martin Av.,16
+168,168 - Estados Unidos,Estados Unidos & Lima,16
+169,169 - FACULTAD DE PSICOLOGIA,"Yrigoyen, Hipolito & 24 De Noviembre",11
+170,170 - SAN LUIS Y ECUADOR,2862 San Luis & Ecuador,20
+171,171 - Pasteur,519 Pasteur,20
+172,172 - BRASIL,BRASIL&DEFENSA,16
+173,173 - PLAZA CECILIA GRIERSON,Av. San Juan 632,15
+174,174 - MINISTERIO DE EDUCACION,Marcelo T. de Alvear & Rodriguez Peña,19
+175,147 - Constitución,Avenida Juan de Garay 1050,36
+176,176 - PINZÓN Y MARTÍN RODRIGUEZ,Pinzon 469,20
+177,177 -PLANETARIO,Av Casares y Av Belisario Roldan,12
+180,180 - CASTRO Y MEXICO,680 Castro & Mexico CABA,20
+181,181 - BILLINGHURST Y MANSILLA,"1520 Billinghurst & Mansilla, Lucio Norberto, General",19
+182,182 - RAVIGNANI Y GUATEMALA,"2185 Ravignani, Emilio, Dr. & Guatemala",20
+183,183 - VIRREY CEVALLOS,Mexico 1652,20
+184,184 - Pedro Echague,Pedro Echague 1878 & Combate De Los Pozos,20
+185,185 - AV. PAVÓN Y 33 ORIENTALES,33 Orientales 1400,19
+186,186 - MANZANA 66,2875 Moreno,19
+187,261 - QUINTEROS LIDORO,"1483 Quinteros, Lidoro J. Av.",16
+188,373 - Jorgelina De Simone,Cochabamba 1755,19
+189,189 - POSADAS,1350 Posadas,20
+190,190 - JUNCAL,"Juncal & Salguero, Jeronimo",20
+191,191 - Rivadavia y 9 de Julio,Pellegrini Y Rivadavia Av.,16
+192,192 - Talcahuano,990 Talcahuano,20
+193,193 - ARENALES Y AGUERO,Arenales y Aguero,19
+194,194 - PERÓN Y ACUÑA DE FIGUEROA,3997 TTE. GENERAL JUAN DOMINGO PERON,16
+195,357 - PLAZA MARTIN FIERRO,La Rioja & Cochabamba,20
+196,196 - HOSPITAL ARGERICH,750 Pi Y Margall & Necochea,19
+197,197 - Quintino Bocayuva,Quintino Bocayuva y Don Bosco,20
+199,199 - ESTADOS UNIDOS Y BOEDO,3568 Estados Unidos & Boedo Av.,20
+200,200 - AUSTRIA Y FRENCH,2080 Austria,19
+201,175 - Esmeralda y Corrientes,Esmeralda y Corrientes,20
+202,001 - FACULTAD DE DERECHO,Av. Pres. Figueroa Alcorta 2120,29
+203,108 - Usina del Arte,"Caffarena, Agustin R. & Don Pedro De Mendoza Av.",24
+204,167 - Hipólito Yrigoyen,"4300 Yrigoyen, Hipolito Av.",24
+205,125 - F.J.Santamaria de Oro,F.J.Santamaria de Oro & Guatemala,15
+206,159 - Fitz Roy & Gorriti,Fitz Roy & Gorriti,16
+207,123 - Armenia,Armenia 2315 & Charcas,20
+208,145 - RAVIGNANI,"Ravignani, Emilio, Dr. & Costa Rica",20
+210,335 - General Urquiza,Figueroa Alcorta & Sarmiento,20
+212,129 - Velasco,J.Ramirez de Velasco 285,20
+213,136 - Acevedo,Acevedo 220 y padilla,20
+214,142 - Armenia y Gorriti,Armenia 1525 y Gorriti,16
+215,113 - Guatemala,Guatemala 4773,20
+216,059 - Coronel Diaz,Guemes 3330 & Coronel Diaz,18
+217,198 - HOSPITAL SARDÁ,"Castillo, Catulo & Dean Funes",16
+218,067 - Senillosa,Senillosa 1905 & Zañartu,16
+219,140 - Las Casas,Las Casas 3587,16
+220,097 - Avelino Diaz,Avelino Diaz&Doblas,16
+221,157 - Senillosa y Zuviria,Senillosa 989 y Zuviria,20
+222,160 - Godoy Cruz y Libertador,Godoy Cruz  3279 y Libertador,20
+223,178 - José Marmol,803 José Marmol,16
+224,133 - Nicaragua,Nicaragua & Bonpland,20
+225,109 - Lerma,175 Lerma & Bonpland,20
+226,139 - Virrey Liniers,Salcedo 3408 & Virrey Liniers,20
+227,188 - Aranguren,"137 Aranguren, Juan F., Dr. & Portugal",20
+229,243 - PLAZOLETA CELEDONIO FLORES,Cordoba 6599,12
+230,259 - PLAZA CASTELLI,Echeverria 3249,16
+231,384 - PLAZA BENITO NAZAR,"Virasoro, Valentin & Figueroa, D Apolinario, Coronel",16
+232,252 - Tamborini,Tamborini 3821,20
+233,389 - Plaza República De Mexico,693 La Pampa,22
+234,344 - UNIVERSIDAD DI TELLA,"1001 Saenz valiente, Juan Pablo",20
+235,281 - Villa Urquiza,Triunvirato Av. & Roosevelt Franklin D. Av.,23
+236,254 - Plaza Rafael Hernandez,Vuelta de Obligado 2004,16
+238,217 - Cachimayo,1489 Cachimayo,23
+239,391 - Plaza República de Ecuador,"Figueroa Alcorta, Pres. Av. & Dorrego Av.",20
+240,239 - Vidal,Vidal 2799,24
+241,348 - Villa del Parque,"Gutierrez, Ricardo 3105",12
+242,103 - MALBA,3051 San Martin De Tours,19
+244,266 - Plaza Alfredo Nobel,Hamburgo 3310,19
+245,248 - Husares,Husares 2201,15
+246,338 - Sucre y Dragones,Sucre 877 y Dragones,14
+247,282 - Tronador,Triunvirato Av. & Tronador,18
+248,346 - Plaza Zapiola,2001 Donado,20
+249,307 - LEONARDO PEREYRA,Velez Sarsfield y California,15
+253,383 - Boedo & Venezuela,Boedo Av. & Republica Bolivariana De Venezuela,19
+254,276 - PRIMERA JUNTA,Av. Rivadavia & Del Barco Centenera,16
+255,374 - Puan,Yerbal 1290,16
+256,209 - PAYSANDU,1182 Paysandu,20
+257,264 - Plaza Marcos Sastre,Miller & Monroe,24
+258,336 - La Pampa,La Pampa 2512 & Ciudad de la Paz,16
+259,290 - Club Excursionistas,Miñones 1818,15
+260,371 - Paseo de las Americas,Juramento 646,18
+261,272 - Plaza Bruno Giordano,Bruno Giordano&Neuquen,15
+262,349 - Plaza Saenz Peña,Andres Lamas&Remedios Escalada de San Martin,16
+263,270 - PLAZA DEL ANGEL GRIS,Calcena & Avellaneda Av.,12
+264,283 - CNEL. JUAN CRUZ CZETZ,"Balbin, Ricardo, Dr. Av. & Larralde, Crisologo Av.",16
+267,353 - PLAZA VELEZ SARSFIELD,Chivilcoy & Avellaneda Av.,11
+268,399 - GARCIA DEL RIO,GARCIA DEL RIO & PINTO,28
+269,260 - SAN MIGUEL DE GARICOITS,"Delgado & Loreto, Virrey",18
+270,370 - Beauchef,1995 Beauchef,16
+271,365 - Venancio Flores,"Argerich & Flores, Venancio, Gral.",20
+272,347 - PLAZA MALAVER,328 Heredia CABA,20
+273,223 - GAINZA,"494 Gainza, Martin De, Gral.",14
+274,369 - Ciudad De La Paz,2816 Ciudad de la Paz CABA,24
+275,256 - PLAZA NORUEGA,Amenabar y Mendoza,20
+276,296 - FREIRE,"2899 Freire, Ramon, Cap. Gral.",16
+277,292 - PLAZA BOLIVIA,Olleros Av. & Del Libertador Av.,12
+278,233 - MONROE,2519 Superi,16
+279,325 - CASTELLI Y PERON,"Castelli & Peron, Juan Domingo, Tte. General",20
+280,222 - SIMON BOLIVAR,"1701 Fernandez Moreno, Baldomero",23
+281,350 - Plaza Irlanda,Av. Gaona 2200,24
+282,332 - PLAZOLETA PORTUGAL,"Aviles, Virrey & Cramer",20
+283,228 - BALDOMERO,"2289 Fernandez Moreno, Baldomero",20
+284,229 - RIGLOS,1019 Riglos,18
+285,400 - Reserva Ecologica,"Achaval Rodriguez, T., Dr. Av. 1520",19
+286,284 - BONIFACIO Y CARABOBO,"1913 Bonifacio, Jose",16
+287,299 - HIDALGO,Hidalgo 796,18
+289,255 - BARRANCAS DE BELGRANO,"Sucre, Antonio Jose De, Mcal. Y Vertiz Virrey Av.",24
+290,224 - FERROCARRIL OESTE,"280 Garcia Lorca, Federico",20
+291,244 - UADE,Lima 750,16
+292,355 - PLAZA RICARDO LLERAS,"Samperio, Manuel J. & Herrera",20
+293,294 - Bonifacio,BONIFACIO 381,16
+294,363 - Udaondo,1185 AV. Udaondo,19
+295,392 - Calasanz,San Jose De Calasanz & Valle,20
+296,293 - PEDERNERA,Pedernera 381,16
+297,320 - QUIRNO,Quirno 781,16
+298,271 - Plazoleta 11 de Noviembre,Varela 401,15
+299,221 - CULPINA,Culpina 121,20
+300,321 - PERITO MORENO,Av. Perito Moreno 1800,20
+303,238 - RIVERA,"2583 Rivera, Pedro I., Dr.",20
+304,395 - Agronomia II,De Los Incas Av. & De Los Constituyentes Av.,15
+305,398 - Rojas,731 Rojas,16
+306,380 - Paysandu y Galicia,1220 GALICIA,20
+308,251 - Solar de la Abadía,Maure 1819,19
+309,298 - IRALA,Irala 695,20
+310,356 - Plaza Sergio Karakachoff,brandsen y Herrera,16
+311,213 - Hospital Alvear,Av. Warnes 2626,20
+312,311 - CONCORDIA,3396 Bogota,20
+313,291 - UNIVERSIDAD DE BELGRANO,1920 Zabala,20
+314,212 - SOR JUANA,Galicia 1630,14
+316,205 - SAN MARTIN,1471 Cucha Cucha,16
+317,220 - GIRIBONE,1101 Giribone,20
+318,285 - ESPINOSA,1785 Espinosa,20
+319,329 - PASO Y LAVALLE,486 Paso,20
+320,364 - Carranza Y Gorriti,"1501 Carranza, Angel Justiniano",20
+321,246 - EDUARDO OLIVERA,"1631 Campos, Luis M. Av.",16
+322,289 - MONTAÑESES,2786 Montañeses,20
+323,240 - ECHEVERRIA,1981 Vidal,24
+324,280 - JURAMENTO,5209 Juramento,16
+328,043 - Plaza Houssay,"Cordoba Av. & Uriburu Jose E., Pres.",16
+329,100 - Plaza Gurruchaga,1078 Gurruchaga,19
+330,148 - Paternal,1718 12 De Octubre,16
+332,202 - Nogoya Y Argerich,3018 Argerich,16
+333,203 - Beiro,"Beiro 3572, CABA",20
+335,206 - Galicia,2502 Galicia,20
+336,207 - PLAZA ARENALES,Nueva York y Chivilcoy,27
+337,208 - Segui,2419 Segui,16
+338,210 - Terrero,3211 Terrero,16
+339,211 - ARANGUREN Y SEGUI,"1608 Aranguren, Juan F., Dr.",16
+340,214 - Flores,2620 Bogota,11
+341,216 - Margariños Cervantes y Argerich,"3011 Magariños Cervantes, A.",15
+342,218 - Campana,1523 Campana,20
+343,219 - Parque Chacabuco II,Av. Asamblea & Faraday,19
+345,226 - Parque La Paternal,Zaballa y Chorroarín,20
+347,230 - Parque Las Heras II,3120 Pacheco de Melo,20
+348,231 - Margariños Cervantes,2465 Margariños Cervantes,16
+349,232 - Sucre y Martinez,3517 Sucre,20
+350,234 - Valdenegro,2831 Valdenegro,19
+351,235 - Colegiales,2825 Zabala,16
+352,236 - Guemes,4718 Guemes,26
+353,237 - Madero Office,"367 Sanchez De Thompson, Mariquita",20
+354,241 - Sanatorio Mendez,512 Hidalgo,20
+355,242 - Plazoleta Rafael del Riego,o´higins 1327,16
+356,245 - Arribeños,3229 Arribeños,15
+358,249 - Balbín,2519 Conesa,12
+359,250 - Fleni,2292 Montañeses,20
+361,258 - Plaza J.J. Paso,1399 Moldes,20
+362,262 - Holmberg,2725 Holmberg,15
+364,381 - Matienzo Y Arce,"1798 Matienzo, Benjamin, Teniente",24
+366,360 - Plaza Ramon Falcon,"3991 Falcon, Ramon L.,Cnel.",20
+367,287 - Belaustegui,"2874 Belaustegui, Luis, Dr.",16
+369,304 - Navarro,2625 Navarro,20
+370,305 - Plaza Martin Rodriguez,3016 Pareja,20
+371,269 - Plaza De La Misericordia,493 Lautaro,16
+372,322 - MARTÍ Y DIRECTORIO,"404 Marti, Jose",12
+373,265 - Plaza Exodo Jujeño,2812 Liverpool,16
+375,301 - Arregui Y Terrada,2793 Arregui,16
+376,324 - Las Victorias,"4083 Vallese, Felipe",20
+377,327 - ACUÑA DE FIGUEROA Y POTOSI,296 Acuna de Figueroa,16
+378,215 - HOSPITAL ALVAREZ,Bolivia 683,20
+379,390 - De Los Ombues,"De Los Ombues Av. & Bello, Andres",20
+380,319 - Cervantes y Trelles,Margariño Cervantes y Trelles,19
+381,274 - Plaza Nuestra Señora de la Asuncion,Gavilan 1300,15
+382,204 - Biarritz,Biarritz 2403,16
+383,263 - Plaza Echeverria,Nahuel Huapi & Triunvirato Av.,18
+384,267 - Plaza 25 De Agosto,14 De Julio 1194,16
+385,268 - Plaza Aristóbulo Del Valle,"Campana & Sastre, Marcos",15
+386,277 - Coghlan,2647 Estomba,8
+387,278 - Donato Alvarez,"1540 Garcia, Juan Agustin",16
+388,279 - Andonaegui,1902 Andonaegui,19
+389,286 - OEA,Del Barco Centenera 741,19
+390,288- 11 de septiembre,288- 11 de Septiembre de 1888 3314,20
+391,295 - Larralde,3607 Vidal,20
+392,297 - TRONADOR Y GARCÍA DEL RÍO,Tronador y Garcia del Rio,16
+393,300 - Jose Artigas,524 Balboa,12
+395,303 - Huaura,1474 Huaura,16
+396,306 - Tres Arroyos Y Olaya,327 Tres Arroyos,20
+397,308 - Artigas Y Melincue,Artigas & Melincue,12
+398,310 - Gregoria Perez,Gregoria Perez 3314,16
+400,313 - De Los Incas,1378 Donado,16
+401,314 - Ramón Falcon,"3792 Falcon, Ramon L.,Cnel.",20
+402,315 - BEIRO Y SAN MARTÍN,3209 Av. Francisco Beiro,16
+403,316 - Buenos Aires,Lafayette 678,19
+404,317 - Cero Más Infinito,Ciudad Universitaria - Pabellón Infinito,18
+405,318 - Plaza Y Carbajal,1602 Plaza,20
+406,326 - Emma De La Barra,"301 De la Barra, Emma",16
+407,330 - Parque Avellaneda,4001 Directorio Av. y Lacarra,28
+408,337 - UTN,Mozart 2400,20
+409,339 - AMANCIO ALCORTA,Av. Amancio Alcorta 4180,8
+411,368 - Ensenada,413 Ensenada,12
+413,382 - CMD,1016 Algarrobo,16
+414,385 - Franklin,440 Franklin,19
+415,386 - Gavilan Y Vallese,786 Gavilan,20
+416,257 - Plaza Francisco Ramirez,"2700 Pedraza, Manuela",28
+417,328 - Centro Cultural San Martin,1501 Sarmiento,20
+418,345 - Plaza Mafalda,"Arenal, Concepcion & Martinez, Enrique, Gral.",20
+419,359 - Plaza Balcarce,2324 Jaramillo,28
+420,375 - Ciudad Universitaria I,Ciudad Universitaria - Pabellón 1(CABA),19
+421,376 - Ciudad Universitaria II,Ciudad Universitaria - Pabellón 2 (CABA),12
+422,377 - Ciudad Universitaria III,Ciudad Universitaria - Pabellón 3 (CABA),28
+423,351-PLAZA DE LOS PERIODISTAS,2900 NEUQUEN,12
+424,387 - Luna,201 Luna,15
+426,396 - PLAZA ALBERTI,Arcos & Roosevelt Franklin D.,20
+427,397 - PLAZA MATHEU,"Hernandarias & Araoz De Lamadrid, Gregorio, Gral.",23
+428,225 - HOSPITAL TORNU,1052 Avalos,20
+429,201 - PEPIRI,Amancio Alcorta y Pepiri,7
+430,037 - Claudia Pia Braudacco,Esmeralda y Av.Rivadvia,12
+431,362 - PARQUE DE LA MEMORIA,7201 Av. Costanera,35
+432,187 - Jose Maria Moreno,141 Jose Maria Moreno,19
+433,273 - Plazoleta Colombia,1619 Brandsen,20
+434,247 - Plaza Lucio Demare,3750 O`Higgins,12
+435,227 -Club Ciudad de Buenos Aires,Miguel Sanchez y Av Libertadores,16
+436,253 - Plaza Colegiales,253 - Plaza Colegiales,28
+441,016 - Legislatura,"169 Peru & Roca, Julio A., Presidente Diagonal Sur Av.",19
+442,048 - Perón,J. D. Perón 338,15
+443,081 -Balcarce,Balcarce y Chile,18
+444,061-Ministerio de Economia,"Balcarce & Yrigoyen, Hipolito Av.",24
+448,393 - Barrio 31,Carlos H. Perette 11,23
+449,352 - San Jose de Flores,Avenida Rivadavia y Fray Cayetano,24
+450,teste ecobici - 450,teste ecobici - 450,1
+451,teste ecobici - 451,teste ecobici - 451,1
