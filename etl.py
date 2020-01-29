@@ -1,5 +1,9 @@
+# coding=utf-8
+
+
 import requests
 import pandas as pd
+import os.path
 
 
 def extract_api_data(api_url, resource, client_id, client_secret):
@@ -40,7 +44,8 @@ def split_column(df, column='num_bikes_available_types'):
 # Extract
 api_url = "https://apitransporte.buenosaires.gob.ar/"
 status_resource = "ecobici/gbfs/stationStatus"
-with open("/home/guido/datadev/ecobici/credenciales.txt", "r") as file:
+proj_dir = "/home/guido/datadev/ecobici/"
+with open(proj_dir + "credenciales.txt", "r") as file:
     client_id = file.readline().rstrip()
     client_secret = file.readline().rstrip()
 stations = extract_api_data(api_url, status_resource, client_id, client_secret)
@@ -56,10 +61,14 @@ df_stations = change_type_column(df_stations,
                                  is_installed='bool')
 df_stations = split_column(df_stations)
 
-df_stations_info = pd.read_csv('ecobici_info.csv')
+df_stations_info = pd.read_csv(proj_dir+'ecobici_info.csv')
 df_stations.set_index('station_id', inplace=True)
 df_stations = df_stations_info.join(df_stations, on='station_id', how='inner')
 
 
 # To csv
-df_stations.to_csv('ecobici.csv', index=False, mode='a+')
+target_file = proj_dir + 'ecobici.csv'
+if os.path.exists(target_file):
+    df_stations.to_csv(target_file, index=False, mode='a+', header=False)
+else:
+    df_stations.to_csv(target_file, index=False)
