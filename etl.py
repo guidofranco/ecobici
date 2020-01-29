@@ -5,6 +5,14 @@ import requests
 import pandas as pd
 import os.path
 
+"""
+Este archivo está destinado a ser ejecutado por algun system's scheduler
+con el fin de actualizar el dataset periodicamente.
+La configuración pensada para el cron job es: 0 8-20 * * 1-5
+Es decir: en el minuto 0 de cada hora entre las 8 y 20 hs,
+de lunes a viernes, todos los meses
+"""
+
 
 def extract_api_data(api_url, resource, client_id, client_secret):
     """
